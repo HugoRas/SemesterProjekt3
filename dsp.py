@@ -5,7 +5,7 @@ import wfdb
 import os
 
 
-data_dir = '/Users/haiderhussain/Desktop/ecg-id-database-1.0.0/PERSON_01'
+data_dir = 'EKG datafiles/ecg-id-database-1.0.0/Person_01'
 
 # optagelse
 record_name = 'rec_1'
